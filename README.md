@@ -29,4 +29,4 @@ Security Auditor → Security Reader
   
 ## RBAC Role Assignments
 
-![RBAC Roles](iam-role-assignments.png)
+![RBAC Roles](iam-rbac-role-assignments.png)
