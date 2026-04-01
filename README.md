@@ -26,3 +26,7 @@ Security Auditor → Security Reader
 - Role-Based Access Control (RBAC)
 - Least Privilege
 - Separation of Duties
+  
+## RBAC Role Assignments
+
+![RBAC Roles](iam-role-assignments.png)
